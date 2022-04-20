@@ -2,7 +2,7 @@ import discord
 import os
 from discord.ext import commands
 from dotenv import load_dotenv
-
+# BIG EBQWUIL ERHDWAS JKFHAS JKLDFHSADJK FHASDKJFHASKDJFHSAJKDFHSDAJKFHASJKFH same bro EEEEE
 load_dotenv()
 
 client = commands.Bot(command_prefix='!')
